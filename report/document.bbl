@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{byrd1995limited}
+Richard~H Byrd, Peihuang Lu, Jorge Nocedal, and Ciyou Zhu.
+\newblock A limited memory algorithm for bound constrained optimization.
+\newblock {\em SIAM Journal on scientific computing}, 16(5):1190--1208, 1995.
+
+\bibitem{jamil2013literature}
+Momin Jamil and Xin-She Yang.
+\newblock A literature survey of benchmark functions for global optimisation
+  problems.
+\newblock {\em International Journal of Mathematical Modelling and Numerical
+  Optimisation}, 4(2):150--194, 2013.
+
+\bibitem{kirkpatrick1983optimization}
+Scott Kirkpatrick, C~Daniel Gelatt~Jr, and Mario~P Vecchi.
+\newblock Optimization by simulated annealing.
+\newblock {\em science}, 220(4598):671--680, 1983.
+
+\bibitem{storn1997differential}
+Rainer Storn and Kenneth Price.
+\newblock Differential evolution--a simple and efficient heuristic for global
+  optimization over continuous spaces.
+\newblock {\em Journal of global optimization}, 11:341--359, 1997.
+
+\bibitem{von2018mathematical}
+John Von~Neumann.
+\newblock {\em Mathematical foundations of quantum mechanics: New edition},
+  volume~53.
+\newblock Princeton university press, 2018.
+
+\end{thebibliography}
